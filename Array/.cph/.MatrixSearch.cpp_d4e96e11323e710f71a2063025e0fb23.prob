@@ -1,0 +1,1 @@
+{"name":"Local: MatrixSearch","url":"g:\\raman\\C++\\Array\\MatrixSearch.cpp","tests":[{"id":1663330786559,"input":"3 4\n1 4 6 9\n3 7 8 17\n5 10 12 19\n19","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\raman\\C++\\Array\\MatrixSearch.cpp","group":"local","local":true}

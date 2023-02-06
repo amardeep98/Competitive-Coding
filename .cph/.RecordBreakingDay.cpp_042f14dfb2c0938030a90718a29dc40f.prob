@@ -1,0 +1,1 @@
+{"name":"Local: RecordBreakingDay","url":"g:\\raman\\C++\\RecordBreakingDay.cpp","tests":[{"id":1661688415472,"input":"8\n1 2 0 7 2 0 2 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\raman\\C++\\RecordBreakingDay.cpp","group":"local","local":true}

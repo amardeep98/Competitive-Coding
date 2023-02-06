@@ -1,0 +1,1 @@
+{"name":"Local: SubarrayWithGivenSum","url":"g:\\raman\\C++\\SubarrayWithGivenSum.cpp","tests":[{"id":1662124966132,"input":"4\n1 2 3 8\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\raman\\C++\\SubarrayWithGivenSum.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: maxSubarraySum","url":"g:\\raman\\C++\\maxSubarraySum.cpp","tests":[{"id":1662233864251,"input":"5\n-4 5 6 -9 12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\raman\\C++\\maxSubarraySum.cpp","group":"local","local":true}

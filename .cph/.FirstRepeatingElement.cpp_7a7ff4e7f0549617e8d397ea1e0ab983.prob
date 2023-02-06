@@ -1,0 +1,1 @@
+{"name":"Local: FirstRepeatingElement","url":"g:\\raman\\C++\\FirstRepeatingElement.cpp","tests":[{"id":1662114684490,"input":"8\n1 2 3 4 5 6 5 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\raman\\C++\\FirstRepeatingElement.cpp","group":"local","local":true}
