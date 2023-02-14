@@ -46,3 +46,4 @@ void Merge(int arr[], int p, int q, int r){
         }
     }
 }
+//Time complexity: O(nlogn)
